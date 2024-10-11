@@ -1,5 +1,5 @@
 # Naive GPT-1
-This naive decoder predicts the next token (char) in Colab.
+This naive "language model" uses transformer decoder-based architecture and predicts the next token (char) in Colab.
 * Language: PyTorch
 * Token: character (might be replaced with tokenizer later)
 * To be tested on Colab with free resources.
