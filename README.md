@@ -1,4 +1,4 @@
-# gpt1
+# Naive GPT-1
 This naive decoder predicts the next token (char) in Colab.
 * Language: PyTorch
 * Token: character (might be replaced with tokenizer later)
